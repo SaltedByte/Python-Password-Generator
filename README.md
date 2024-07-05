@@ -24,6 +24,8 @@ for example, `python main.py 8 qwertyuiopasdfghjklzxcvbnm` would return a 8 char
 ## Feature Roadmap
 - [x] Allow args to be passed through to specify length and invalid characters to meet unique webpage requirements
 - [ ] Add more options like using dictionary words instead of pseudorandom characters
+- [ ] Implement a password strength score
+- [ ] Display information of how long it would take a computer to crack the password
 - [ ] Create a webpage to generate a password with a UI
 - [ ] Create an API for password generation
 
